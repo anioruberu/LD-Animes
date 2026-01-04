@@ -1,0 +1,8 @@
+{
+  "versionName": "1.0",
+  "forceUpdate": true,
+  "title": "Actualización Obligatoria",
+  "description": "Para seguir disfrutando de LD Animes, debes instalar la versión más reciente. Esta versión incluye mejoras críticas.",
+  "buttonText": "DESCARGAR AHORA",
+  "apkUrl": "https://github.com/TU_USUARIO/Actualizacion-LD-Animes/raw/main/app.apk"
+}
