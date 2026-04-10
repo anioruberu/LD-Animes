@@ -1,11 +1,6 @@
 {
-  "versionName": "1.3",
-  "description": "• Nuevo servidor agregado Anime Fénix
-• Nuevo servidor agregado Latanime
-• Nuevo servidor agregado Tioanime
-• Interfaz mejorada en pantalla horizontal
-• Varios bugs corregidos
-• Noticias significativamente mejoradas",
+  "versionName": "1.3.1",
+  "description": "• Se arreglaron errores de servidores de Latanime\n• Se arreglaron errores de servidores de Anime Fénix\n• El diseño de episodios mejoró: ahora se ve cuántos episodios tienes y cuánto espacio estás usando\n• Se mejoró la interfaz de episodios y se arreglaron bugs menores\n• Se mejoraron las noticias: ahora se pueden ver dentro de la app\n• Se modificó la interfaz de la lista de noticias\n• Se arreglaron algunos bugs para TV en buscador y favoritos\n• Se agregó nueva red social Ko-fi",
   "buttonUrl": "https://ldanimes.online/LD%20Animes_1.3.1.apk",
   "forceUpdate": false
 }
