@@ -3,7 +3,7 @@
     "mostrar_mensaje": true,
     "servidor": "AnimeFLV",
     "titulo": "¡Aviso Importante!",
-    "descripcion": "Los servidores externos de video de AnimeFLV están fallando ningún anime se puede ver de momento es una falla de AnimeFLV"
+    "descripcion": "Los servidores externos de video de AnimeFLV están fallando ningún anime no se puede ver de momento es una falla de AnimeFLV"
   },
   {
     "mostrar_mensaje": false,
