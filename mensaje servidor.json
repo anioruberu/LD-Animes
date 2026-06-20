@@ -2,11 +2,11 @@
   {
     "mostrar_mensaje": true,
     "servidor": "AnimeFLV",
-    "titulo": "¡Aviso Importante de Enero!",
+    "titulo": "¡Aviso Importante!",
     "descripcion": "Bienvenidos a LD Animes. Disfruta de tus series favoritas en la mejor calidad."
   },
   {
-    "mostrar_mensaje": true,
+    "mostrar_mensaje": false,
     "servidor": "TioAnime",
     "titulo": "¡Aviso Importante de Febrero!",
     "descripcion": "Bienvenidos a LD Animes. Disfruta de tus series favoritas en la mejor calidad."
