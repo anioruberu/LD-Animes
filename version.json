@@ -2,6 +2,6 @@
   "versionName": "1.3.4",
   "description": "• Se modificó favoritos, ahora se va a llamar Perfil\n• Se implementó un login y un registro en la categoría de perfil con una base de datos que guarda las listas de favoritos, terminados y el historial con opciones únicas como poner foto de perfil, poner contraseña y correo\n• Nota importante: LD Animes no comparte su información privada a terceros\n• Se agregó la opción de continuar como invitado en el login, lo negativo de esto es que no estará respaldado con la nube de LD Animes, o sea, todo será local\n• Se agregó un selector de avatar para el perfil de invitado y el online\n• Se solucionaron bugs en la búsqueda automática\n• Se añadió filtros en favoritos para la lista de favoritos y terminados\n• Ahora en cuenta de invitado tienes la posibilidad de tener un perfil, es opcional\n• La app cambió su política\n• Se modificó la imagen del logo en el layout de actualización\n• Nueva animación para las carátulas de los animes\n• Se modificó la barra del buscador\n• Sentimos lo de AnimeFLV, pero todavía no tiene servidores de video y no sabemos si la página va a estar de nuevo funcionando",
   "buttonUrl": "https://github.com/anioruberu/LD-Animes/raw/refs/heads/main/LD%20Animes_1.3.4.apk",
-  "webUrl": "https://ldanimes.online",
+  "webUrl": "https://ldanimes.online/LD%20Animes_1.3.4.apk",
   "forceUpdate": false
 }
