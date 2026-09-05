@@ -3,12 +3,12 @@
     "mostrar_mensaje": true,
     "servidor": "AnimeFLV",
     "titulo": "¡Aviso Importante!",
-    "descripcion": "Los servidores externos de video de AnimeFLV están fallando ningún anime no se puede ver de momento es una falla de AnimeFLV"
+    "descripcion": "Lamentablemente AnimeFLV se cayó estamos trabajando en agregar nuevos servidores"
   },
   {
     "mostrar_mensaje": false,
-    "servidor": "TioAnime",
+    "servidor": "AnimeFenix",
     "titulo": "¡Aviso Importante!",
-    "descripcion": "Bienvenidos a LD Animes. Disfruta de tus series favoritas en la mejor calidad."
+    "descripcion": "Lamentablemente AnimeFenix se cayó estamos trabajando en agregar nuevos servidores"
   }
 ]
